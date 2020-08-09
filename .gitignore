@@ -13,3 +13,8 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea/
+data/extract/
+data/output/
+php_src/
